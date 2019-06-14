@@ -1,0 +1,30 @@
+div{ font-size:40;filter:glow(color=blank(100,0,60),strength=10);
+    font-family:楷体;text-align:center;}
+#header{
+    height: 60px;
+    background: rgb(147, 211, 219) no-repeat center top;
+    text-transform: lowercase
+}
+[href]{
+    float: right;
+}
+#logo{
+    float: left;
+    margin: 0px;
+    line-height: normal;
+    font-size:15px;
+}
+.test{
+    background-attachment: scroll;
+    background-image: url(ai.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+p{
+    background: burlywood;
+    width: 900px;
+    height: 2800px;
+    margin: 0px;
+    margin-left: 380px;
+
+}

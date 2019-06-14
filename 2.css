@@ -1,0 +1,25 @@
+#header{
+    height: 60px;
+    background: gray no-repeat center top;
+    text-transform: lowercase
+}
+[href]{
+    float: right;
+}
+#logo{
+    float: left;
+    margin: 0px;
+    line-height: normal;
+    font-size:15px;
+}
+p{ font-size:40;filter:glow(color=blank(100,0,60),strength=10);
+    font-family:楷体;text-align:center;
+    background: greenyellow; width: 900px;
+    margin: 0px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 120px;
+}
+.exe{
+    text-align: right;
+}
